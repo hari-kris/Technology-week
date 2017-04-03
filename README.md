@@ -12,7 +12,7 @@ OpenCV<br>
 Sentiment Analysis<br>
 Hadoop<br>
 Spark<br>
-Sprint-boot<br>
+Spring-boot<br>
 Regex<br>
 Android<br>
 Git<br>
